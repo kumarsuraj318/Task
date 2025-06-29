@@ -5,7 +5,7 @@ Tried to clone the SCRATCH editor using REACTJS. Implemented 4 moves and 2 looks
 ## ScreenRecording Link 
 
 Here is the attached link for the screen recording of the functioning of the project. 
-Link:- ![video](https://drive.google.com/file/d/1fxByKv0KP_YvuXt71bbbepQEWrOWEEXA/view?usp=sharing)
+Link:- (https://drive.google.com/file/d/1fxByKv0KP_YvuXt71bbbepQEWrOWEEXA/view?usp=sharing)
 
 ## Deployment Link
 
